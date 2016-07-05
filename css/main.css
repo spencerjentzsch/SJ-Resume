@@ -2597,6 +2597,6 @@ footer .copyright span:last-child::after {
 
 /*# sourceMappingURL=main.css.map */
 
-a.email-link:hover {
-	color: none;
+a.email-link:link {
+	color: white;
 }
