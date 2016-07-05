@@ -2600,3 +2600,6 @@ footer .copyright span:last-child::after {
 a.email-link:link {
 	color: white;
 }
+a.email-link:hover, a.email-link:focus, a-email-link:active {
+	color: #3498db;
+}
