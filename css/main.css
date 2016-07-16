@@ -1503,8 +1503,8 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 15.0rem;
-	width: 15.0rem;
+	height: 12.0rem;
+	width: 12.0rem;
 	border-radius: 50%;
 	margin: .9rem 0 0 0;
 	float: left;
@@ -1576,8 +1576,8 @@ header .logo a {
 }
 @media only screen and (max-width:768px) {
 	.intro-info img {
-		height: 7.8rem;
-		width: 7.8rem;
+		height: 10.0rem;
+		width: 10.0rem;
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
@@ -1602,8 +1602,8 @@ header .logo a {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 6.6rem;
-		width: 6.6rem;
+		height: 17.0rem;
+		width: 17.0rem;
 		float: none;
 		display: inline-block;
 	}
